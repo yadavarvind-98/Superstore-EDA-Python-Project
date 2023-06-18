@@ -1,9 +1,10 @@
 # Superstore-EDA-Python-Project
 
-It is a Sales dataset of a Superstore downloaded from Kaggle.
+It is a Sales dataset of a Superstore downloaded from Kaggle [Link](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset).
 
 # Business Task
-Perform Exploratory Data Analysis on Sales dataset of a Superstore to get insights regarding Orders, Quantity Sold, Profit, Profit Margin % for different categorical variables.
+Performed Exploratory Data Analysis on Sales dataset of a Superstore to get insights to increase profits and reduce losses for the store.
+Got actionable insights regarding Sales, Quantity Sold, Profit, Profit Margin % for different categorical variables.
 
 # Tools Used
 Python Libraries - Pandas, NumPy, Matplotlib, Seaborn
